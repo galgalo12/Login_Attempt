@@ -1,4 +1,4 @@
-	This section is also designed for monitoring login activity and raising alerts when there is abnormal behavior, helping detect potential security risks.
+	This Scripts is also designed for monitoring login activity and raising alerts when there is abnormal behavior, helping detect potential security risks.
 
 
 	Failed Login Attempts Analysis (Monitoring):
